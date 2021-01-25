@@ -1,0 +1,16 @@
+
+  body{
+    background-color: #ffeebb;
+  }
+
+  hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: violet;
+    width: 5%;
+    height: 15px;
+  }
+
+  ul{
+    color: blue;
+  }
